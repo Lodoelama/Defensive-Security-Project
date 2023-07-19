@@ -14,7 +14,7 @@ This project provided us with practical experience in designing and implementing
 
 ## Project Resources
 
-- [Project 3: Defensive Security Slideshow](https://docs.google.com/presentation/d/1HANlExJfQ83BzMOH7ysknjCx6_OHp57oNp-eNA3b3bo/edit#slide=id.gede77d5ba8_0_17)
+- [Project 3: Defensive Security Slideshow](https://docs.google.com/presentation/d/1HANlExJfQ83BzMOH7ysknjCx6_OHp57oNp-eNA3b3bo/edit#slide=id.g630a814dc5_0_53)
 - [Project 3: Review Questions](https://docs.google.com/document/d/1qd1OSpX3uqsndYFlI7kHQ_oCvH_YfJnK8fk-pRVQTWw/edit)
 
 ## Project Tasks
